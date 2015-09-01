@@ -32,3 +32,12 @@ footer {
 ::selection {
   background: #9f9191;
 }
+
+@font-face {
+  font-family: 'PF DinText Pro';
+  src: url(lib/fonts/PFDinDisplayPro-Reg.ttf);
+}
+@font-face {
+  font-family: 'GothamMedium';
+  src: url(lib/fonts/GothamMedium.otf);
+}
